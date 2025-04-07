@@ -8,7 +8,7 @@ public partial class MainPage : ContentPage
 	{
 		InitializeComponent();
 		//Capitalized L is from xcassets lowercase l is from resources/mauiimage
-		//To change just 
+		
 		 var testitem = new ToolbarItem()
             {
                 
