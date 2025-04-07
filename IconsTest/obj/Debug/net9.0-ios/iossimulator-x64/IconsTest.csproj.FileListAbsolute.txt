@@ -307,6 +307,7 @@
 /Users/reinierasberg/IconsTest/IconsTest/obj/Debug/net9.0-ios/iossimulator-x64/IconsTest.pdb
 /Users/reinierasberg/IconsTest/IconsTest/obj/Debug/net9.0-ios/iossimulator-x64/IconsTest.genruntimeconfig.cache
 /Users/reinierasberg/IconsTest/IconsTest/obj/Debug/net9.0-ios/iossimulator-x64/ref/IconsTest.dll
+/Users/reinierasberg/IconsTest/IconsTest/obj/Debug/net9.0-ios/iossimulator-x64/IconsTest.sourcelink.json
 /Users/reinierasberg/IconsTest/IconsTest/obj/Debug/net9.0-ios/iossimulator-x64/resourcestamps/Microsoft.Extensions.Configuration.Abstractions.stamp
 /Users/reinierasberg/IconsTest/IconsTest/obj/Debug/net9.0-ios/iossimulator-x64/resourcestamps/Microsoft.Extensions.Configuration.stamp
 /Users/reinierasberg/IconsTest/IconsTest/obj/Debug/net9.0-ios/iossimulator-x64/resourcestamps/Microsoft.Extensions.DependencyInjection.Abstractions.stamp
@@ -321,4 +322,3 @@
 /Users/reinierasberg/IconsTest/IconsTest/obj/Debug/net9.0-ios/iossimulator-x64/resourcestamps/Microsoft.Maui.stamp
 /Users/reinierasberg/IconsTest/IconsTest/obj/Debug/net9.0-ios/iossimulator-x64/resourcestamps/Microsoft.Maui.Essentials.stamp
 /Users/reinierasberg/IconsTest/IconsTest/obj/Debug/net9.0-ios/iossimulator-x64/resourcestamps/Microsoft.Maui.Graphics.stamp
-/Users/reinierasberg/IconsTest/IconsTest/obj/Debug/net9.0-ios/iossimulator-x64/IconsTest.sourcelink.json
