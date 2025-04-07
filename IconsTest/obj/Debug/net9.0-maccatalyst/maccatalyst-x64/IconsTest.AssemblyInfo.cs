@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IconsTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+908e3a889a1a6e4f89ea08dfb4ac4d3853c6c560")]
 [assembly: System.Reflection.AssemblyProductAttribute("IconsTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IconsTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
